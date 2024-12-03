@@ -1,4 +1,4 @@
-# Security-Audit---Botium-Toys
+# Security Audit Botium Toys
 
 A security audit performed as part of the second course in the Google Cybersecurity Professional Certificate.
 
