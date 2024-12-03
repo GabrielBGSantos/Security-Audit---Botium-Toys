@@ -4,7 +4,7 @@ A security audit performed as part of the second course in the Google Cybersecur
 
 Skills learned:
 
-# Performing a security audit
-# Conducting a risk assessment report
-# Implementing access control for customers, employees, and assets
-# Applying compliance best practices that have not yet been implemented
+* Performing a security audit
+* Conducting a risk assessment report
+* Implementing access control for customers, employees, and assets
+* Applying compliance best practices that have not yet been implemented
